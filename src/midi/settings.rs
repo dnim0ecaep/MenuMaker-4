@@ -41,7 +41,16 @@ pub fn soundfont_dirs(data_dir: &Path) -> Vec<PathBuf> {
     ];
     if let Some(home) = dirs::home_dir() {
         dirs.push(home.join(".local/share/soundfonts"));
+        // macOS: the per-user sound bank folder (GarageBand/Logic, many
+        // .sf2 installers) and a plain ~/SoundFonts folder.
+        dirs.push(home.join("Library/Audio/Sounds/Banks"));
+        dirs.push(home.join("SoundFonts"));
     }
+    // macOS: the system-wide sound bank folder and Homebrew prefixes
+    // (Apple Silicon and Intel).
+    dirs.push(PathBuf::from("/Library/Audio/Sounds/Banks"));
+    dirs.push(PathBuf::from("/opt/homebrew/share/soundfonts"));
+    dirs.push(PathBuf::from("/usr/local/share/soundfonts"));
     dirs
 }
 
