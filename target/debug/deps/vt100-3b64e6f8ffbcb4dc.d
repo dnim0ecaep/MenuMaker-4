@@ -1,0 +1,14 @@
+/home/mdbeyhl/Code/MenuMaker-3.0/target/debug/deps/vt100-3b64e6f8ffbcb4dc.d: /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/lib.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/attrs.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/callbacks.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/cell.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/grid.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/parser.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/perform.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/row.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/screen.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/term.rs
+
+/home/mdbeyhl/Code/MenuMaker-3.0/target/debug/deps/libvt100-3b64e6f8ffbcb4dc.rmeta: /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/lib.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/attrs.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/callbacks.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/cell.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/grid.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/parser.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/perform.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/row.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/screen.rs /home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/term.rs
+
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/lib.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/attrs.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/callbacks.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/cell.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/grid.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/parser.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/perform.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/row.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/screen.rs:
+/home/mdbeyhl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/vt100-0.16.2/src/term.rs:
