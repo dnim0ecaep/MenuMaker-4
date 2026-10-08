@@ -2,7 +2,7 @@
 This version 4, is written in Rust and runs much faster than the previos python versions.
 
 
-Menu Maker is a cross-platform terminal-based application launcher designed for efficiency, simplicity, and full customization. It allows users to organize commands and scripts into expandable categories, offering a clean and intuitive interface to execute system tools, development utilities, or any shell commands directly from the terminal.<img width="1029" height="332" alt="Screenshot 2026-01-07 at 11 33 18 AM" src="[https://github.com/dnim0ecaep/MenuMaker-4/blob/main/The_App.png](https://github.com/dnim0ecaep/MenuMaker-4/blob/main/The_App.png" />
+Menu Maker is a cross-platform terminal-based application launcher designed for efficiency, simplicity, and full customization. It allows users to organize commands and scripts into expandable categories, offering a clean and intuitive interface to execute system tools, development utilities, or any shell commands directly from the terminal.
 
 
 Core Features:
